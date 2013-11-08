@@ -1,8 +1,8 @@
 venu-akqatest
 =============
 
-Load Database dump from CSV to MySQL using Spring Batch framework
------------------------------------------------------------------
+Format text file input in Batches
+----------------------------------
 I have created this temparory project to read a TEXT file and format data using a Spring Batch framework 
 which is a lightweight, comprehensive batch framework designed to enable the development of robust batch applications 
 vital for the daily operations of enterprise systems
